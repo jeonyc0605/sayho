@@ -32,7 +32,7 @@ sudo pip3 list
 #시스템에 설치된 파이썬 패키지를 나열
 
 sudo -H pip3 install -U jetson-stats
-#jetson-stats'라는 Python 패키지를 설치하고 업그레이드
+#'jetson-stats'라는 Python 패키지를 설치하고 업그레이드
 
 rc@rc-desktop:~$ pip3 list| grep jetson
 #'jetson'이라는 단어를 포함하는 모든 설치된 패키지를 검색하여 나열
